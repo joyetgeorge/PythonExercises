@@ -4,6 +4,7 @@ Output :
 List : ['3', ' 5', ' 7', ' 23']
 Tuple : ('3', ' 5', ' 7', ' 23') """
 
+
 def convert(list):
     return tuple(list)
 
