@@ -9,7 +9,7 @@ Tuple : ('3', ' 5', ' 7', ' 23')
 
 ## Answer
 
-
+<details><summary>##Answer</summary>
 ```python
 def convert(list):
     return tuple(list)
@@ -33,6 +33,7 @@ print(convert(list))
     The list is : [1, 2, 3, 4]
     The tuple is :(1, 2, 3, 4)
     
+</details>
 
 # Question 2
 
@@ -43,7 +44,7 @@ Output : java
 
 ## Answer
 
-
+<details><summary>##Answer</summary>
 ```python
 import os
 
@@ -54,7 +55,7 @@ print(f"Extension is : \n{fileExtension}")
 
     Extension is : 
     .txt
-    
+</details>
 
 # Question 3
 
